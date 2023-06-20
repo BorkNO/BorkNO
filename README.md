@@ -1,6 +1,6 @@
 Hi! I'm Bork, a Norwegian IT student who's pretty interested in cybersecurity, networking and Linux.
-I've still got a lot to learn, but hope to make a bunch of apps and stuff in the future!
-You can contact me at mail@bork.no (or Bork@#0420 on Discord)
+I've still got a lot to learn so I'm pretty useless with programming
+You can contact me at mail@bork.no (or borkboii on Discord)
 
 
 
