@@ -1,5 +1,5 @@
 Hi! I'm Bork, a Norwegian IT student who's pretty interested in cybersecurity, networking and Linux.
-I've still got a lot to learn so I'm pretty useless with programming
+I've still got a lot to learn so I'm pretty useless with programming.
 You can contact me at mail@bork.no (or borkboii on Discord)
 
 
